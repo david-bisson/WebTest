@@ -2,7 +2,7 @@ import org.testng.annotations.Test;
 
 public class Main {
     @Test
-    public static void test(){
-        
+    public static void test1(){
+
     }
 }
